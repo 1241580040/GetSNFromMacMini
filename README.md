@@ -1,14 +1,3 @@
-Get SN From Mac Mini
+This is a simple script.
 
-Hoho...
-
-Puss in Boot
-
-aaaaa
-
-Didadidadi
-
-bbbb
-xxxx
-yyyy
-zzzz
+It using open/wirte file and simple regex to capture what you want.
